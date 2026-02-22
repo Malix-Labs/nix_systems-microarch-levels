@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 type: software
-title: "<TITLE>"
-abstract: "<DESCRIPTION>"
-repository-code: "https://github.com/Malix-Labs/REPOSITORY"
-license: AGPL-3.0-or-later
+title: "nix_systems-microarch-levels"
+abstract: "Externally extensible flake systems for microarchitecture levels"
+repository-code: "https://github.com/Malix-Labs/nix_systems-microarch-levels"
+license: MIT
 authors:
   - alias: "Malix"
     family-names: "Brunet"
